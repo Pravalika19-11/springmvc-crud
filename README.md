@@ -1,1 +1,1 @@
-# springmvc-curd
+# springmvc-crud
